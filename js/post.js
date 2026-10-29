@@ -1,6 +1,6 @@
 // 1 . Selecionar os elementos do html
 // Que vai ser o forms
-const form = document.querySelector("#form-jogos");
+const form = document.querySelector("#form_jogo");
 
 const resposta = document.querySelector("#resposta");
 
